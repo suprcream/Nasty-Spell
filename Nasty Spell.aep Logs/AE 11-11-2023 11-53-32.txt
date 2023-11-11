@@ -1,0 +1,17 @@
+Adobe After Effects v23.4 Windows 64 render log for project “Nasty Spell.aep”
+
+Rendering started on 11/11/2023 at 11:53:32
+
+  11/11/2023 11:53:32: Starting composition “main”.
+
+  Output To: C:\Users\User\Documents\Projects\Video\Nasty Spell\Adobe After Effects Auto-Save\main (0-00-06-08).png    11/11/2023 11:53:33: Finished composition “main”.
+
+
+  11/11/2023 11:53:33: Starting composition “main”.
+
+  Output To: C:\Users\User\Documents\Projects\Video\Nasty Spell\render\main.mp4  After Effects warning: Could not open the file 'C:\Users\User\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-0MEN3PD.noindex\4f\4f43e8ad-3cf8-7391-d3ed-c1c7329bee38.ADBE LCV.B3A0635.AAAAAAAAAACABwAAOAQAAAAAAAAAAAAAgAcAADgEAAAAAAAAAAAAAIAHAAA4BAAAAAAAAAAAAACABwAAOAQAAAMAAAA=.aecache'.  11/11/2023 12:04:37: Finished composition “main”.
+
+
+  Total Time Elapsed: 11 Min, 4 Sec
+Log closed on 11/11/2023 at 12:04:37
+
